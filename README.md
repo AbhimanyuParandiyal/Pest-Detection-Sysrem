@@ -1,1 +1,1 @@
-# Pest-Detection-Sysrem
+# Pest-Detection-System
